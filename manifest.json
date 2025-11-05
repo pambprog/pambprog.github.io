@@ -2,7 +2,7 @@
   "name": "PambDemo",
   "short_name": "PambDemo",
   "description": "Amiga-style demo with PSYAMB scroller",
-  "start_url": "./pambdemo.html",
+  "start_url": "https://pambprog.github.io/index.html",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "landscape",
@@ -21,4 +21,5 @@
     }
   ]
 }
+
 
