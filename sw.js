@@ -1,6 +1,6 @@
 const CACHE_NAME = 'pambdemo-cache-v1';
 const FILES_TO_CACHE = [
-  '/pambdemo.html',
+  '/index.html',
   '/manifest.json',
   '/sw.js',
   '/icon-192.png',
