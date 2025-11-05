@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "YOUR_APP_PACKAGE_NAME",
-      "sha256_cert_fingerprints": ["YOUR_APP_SHA256_CERT"]
+      "package_name": "io.github.pambprog.pambdemo",
+      "sha256_cert_fingerprints": ["03:CE:08:B8:96:1F:18:03:61:21:5F:51:A8:E4:37:A0:4B:4F:69:7B:B7:1C:25:12:E2:C8:E7:89:D3:4D:74:E2"]
     }
   }
 ]
